@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vivek5499/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5499/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -11,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
