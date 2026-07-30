@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Vivek5499/DSA-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek5499/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Vivek5499/DSA-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
