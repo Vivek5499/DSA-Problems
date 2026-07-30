@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek5499/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vivek5499/DSA-Problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vivek5499/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
