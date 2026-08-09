@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vivek5499/DSA-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Vivek5499/DSA-Problems/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vivek5499/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5499/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vivek5499/DSA-Problems/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vivek5499/DSA-Problems/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
