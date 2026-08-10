@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Vivek5499/DSA-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Vivek5499/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vivek5499/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
