@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vivek5499/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vivek5499/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek5499/DSA-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vivek5499/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5499/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivek5499/DSA-Problems/tree/master/0054-spiral-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vivek5499/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vivek5499/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vivek5499/DSA-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Vivek5499/DSA-Problems/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
