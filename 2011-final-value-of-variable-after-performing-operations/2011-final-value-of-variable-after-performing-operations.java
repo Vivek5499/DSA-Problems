@@ -1,13 +1,14 @@
 class Solution {
+
     public int finalValueAfterOperations(String[] operations) {
-        //int n = operations.length;
-        int res = 0;
-        for(String i : operations){
-            if(i.equals("X++") || i.equals("++X")) res++;
-            else{
-                res--;
+        int x = 0;
+        for (String op : operations) {
+            if ("X++".equals(op) || "++X".equals(op)) {
+                x++;
+            } else {
+                x--;
             }
         }
-        return res;
+        return x;
     }
 }
